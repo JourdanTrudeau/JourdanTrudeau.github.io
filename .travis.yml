@@ -1,0 +1,18 @@
+language: ruby
+rvm:
+  - 1.9.3
+
+# The build script should also call `jekyll build`
+script:
+  - bundle exec rake build
+after_success:
+  - ./deploy.sh
+
+#     # The encryption label is the unique key used in the environment
+#     # variables set up when calling `travis encrypt-file` on the SSH key
+env:
+  global:
+    - ENCRYPTION_LABEL="714087436de4"
+    - GIT_NAME="zephyrie"
+    - GIT_EMAIL="michael@zephyrie.com"
+    - DEPLOY_BRANCH="deploy"
