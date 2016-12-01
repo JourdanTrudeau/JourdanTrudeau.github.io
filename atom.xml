@@ -4,7 +4,7 @@
  <title>Hyde</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2016-12-01T22:32:22+00:00</updated>
+ <updated>2016-12-01T22:39:27+00:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -216,9 +216,9 @@
  
  <entry>
    <title>Lets see if this works?</title>
-   <link href="http://hyde.getpoole.com/food/2010/12/01/your-filename/"/>
-   <updated>2010-12-01T17:25:00+00:00</updated>
-   <id>http://hyde.getpoole.com/food/2010/12/01/your-filename</id>
+   <link href="http://hyde.getpoole.com/2010/12/01/your-filename/"/>
+   <updated>2010-12-01T00:00:00+00:00</updated>
+   <id>http://hyde.getpoole.com/2010/12/01/your-filename</id>
    <content type="html">&lt;h3 id=&quot;my-awesome-title&quot;&gt;My awesome title&lt;/h3&gt;
 
 &lt;p&gt;Jelly-filled donuts are my favorite&lt;/p&gt;
