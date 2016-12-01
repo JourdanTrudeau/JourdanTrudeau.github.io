@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Michael Hernandez
+tagline:          ''
+description:      'My Awesome website'
+url:              http://zephyrie.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Michael Hernandez'
+  url:            https://twitter.com/zephyrie13
 
 paginate:         5
 
@@ -23,4 +23,48 @@ version:          2.1.0
 gems: [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/zephyrie/zephyrie.github.io
+
+prose:
+  ignore:
+    - /_config.yml
+    - /atom.xml
+    - /LICENSE.md
+    - /_layouts
+    - /_includes
+    - /public
+    - /.travis.yml
+    - /.gitignore
+    - /deploy.sh
+    - /deploy_key.enc
+  metadata:
+    "":
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+
