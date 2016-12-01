@@ -37,6 +37,7 @@ prose:
     - /.gitignore
     - /deploy.sh
     - /deploy_key.enc
+    - /Gemfile
   metadata:
     "":
       - name: "layout"
