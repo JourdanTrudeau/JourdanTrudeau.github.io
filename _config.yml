@@ -26,6 +26,7 @@ github:
   repo:           https://github.com/zephyrie/zephyrie.github.io
 
 prose:
+  siteurl: zephyrie.github.io
   ignore:
     - /_config.yml
     - /atom.xml
