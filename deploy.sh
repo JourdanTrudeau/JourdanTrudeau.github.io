@@ -11,7 +11,7 @@ if [ ! -d "$SOURCE_DIR" ]; then
   exit 1
 fi
 
-REPO=$(git config remote.origin.url)
+REPO='git@github.com:zephyrie/zephyrie.github.io.git'
 
 if [ -n "$TRAVIS_BUILD_ID" ]; then
   # When running on Travis we need to use SSH to deploy to GitHub
