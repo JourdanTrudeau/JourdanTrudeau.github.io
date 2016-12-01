@@ -49,6 +49,7 @@ prose:
         field:
           element: "text"
           label: "Title"
+          value: ""
       - name: "published"
         field:
           element: "checkbox"
@@ -63,6 +64,7 @@ prose:
         field:
           element: "text"
           label: "Title"
+          value: ""
       - name: "published"
         field:
           element: "checkbox"
