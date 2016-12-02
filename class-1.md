@@ -1,6 +1,7 @@
 ---
 layout: page
 published: true
+title: Class 1
 ---
 ## class 1
 
