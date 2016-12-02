@@ -1,8 +1,9 @@
 ---
 layout: page
 published: true
-title: Class 1
+title: Lit / Comp 12
 ---
-## class 1
+## Lit/ Comp 12
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+The objective for this yearlong course is to prepare students for college level reading, writing, oral communication, and analysis. Students will study a variety of literature, including novels, short stories, essays, articles, poetry, drama, and nonfiction as well as different forms of media, such as podcasts, movies, and interviews, etc. Students will study various themes including, power, the individual and society, passion vs. responsibility, and identity.
