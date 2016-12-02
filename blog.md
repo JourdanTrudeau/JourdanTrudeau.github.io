@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-published: true
+published: false
 ---
 
 <div class="posts">
