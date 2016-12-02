@@ -27,6 +27,7 @@ github:
 
 prose:
   siteurl: zephyrie.github.io
+  media: 'media'
   ignore:
     - /atom.xml
     - /LICENSE.md
