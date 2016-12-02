@@ -297,13 +297,16 @@ tbody tr:nth-child(odd) th {
   margin-right: auto;
 }
 
-.container .sidebar {
+.sidebar .container {
   color: white;
   text-shadow:
    -1px -1px 0 #000,  
     1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;
+}
+
+.sidebar {
   background-size: contain;
   background-image: url('../../media/best-books-book-youll-ever-read.jpg');
 }
