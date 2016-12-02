@@ -16,8 +16,6 @@ author:
   name:           'Jourdan Trudeau'
   url:            https://www.jourdantrudeau.com
 
-paginate:         5
-
 # Custom vars
 version:          2.1.0
 gems: [jekyll-paginate]
@@ -36,24 +34,3 @@ prose:
     - /deploy.sh
     - /deploy_key.enc
     - /Gemfile
-  metadata:
-    "":
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Published"
-          value: true
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Published"
-          value: true

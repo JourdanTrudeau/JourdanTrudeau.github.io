@@ -1,6 +1,4 @@
 ---
-published: true
-title: Home
 layout: default
 ---
 
