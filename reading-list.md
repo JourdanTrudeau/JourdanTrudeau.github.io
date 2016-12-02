@@ -1,6 +1,7 @@
 ---
 layout: page
 published: true
+title: Reading List
 ---
 ## Reading List
 
