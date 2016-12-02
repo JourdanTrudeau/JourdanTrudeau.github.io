@@ -304,6 +304,8 @@ tbody tr:nth-child(odd) th {
     1px -1px 0 #000,
     -1px 1px 0 #000,
      1px 1px 0 #000;
+  background-size: contain;
+  background-image: url('../../media/best-books-book-youll-ever-read.jpg');
 }
 
 
