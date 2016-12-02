@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Blog
-published: false
+published: true
 ---
 
 <div class="posts">
