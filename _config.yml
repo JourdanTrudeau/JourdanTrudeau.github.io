@@ -28,12 +28,8 @@ github:
 prose:
   siteurl: zephyrie.github.io
   ignore:
-    - /_config.yml
     - /atom.xml
     - /LICENSE.md
-    - /_layouts
-    - /_includes
-    - /public
     - /.travis.yml
     - /.gitignore
     - /deploy.sh
