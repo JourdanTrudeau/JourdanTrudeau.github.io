@@ -1,6 +1,7 @@
 ---
 published: true
 title: Home
+layout: default
 ---
 
 <p class="message">
