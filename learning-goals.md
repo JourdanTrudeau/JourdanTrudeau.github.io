@@ -1,6 +1,7 @@
 ---
 layout: page
 published: true
+title: Learning Goals
 ---
 ## A New Post
 
