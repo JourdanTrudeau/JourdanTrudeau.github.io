@@ -55,5 +55,5 @@ prose:
       - name: "published"
         field:
           element: "checkbox"
-          label: "Published",
+          label: "Published"
           value: true
