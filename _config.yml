@@ -41,11 +41,6 @@ prose:
         field:
           element: "hidden"
           value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
       - name: "published"
         field:
           element: "checkbox"
@@ -56,11 +51,6 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
       - name: "published"
         field:
           element: "checkbox"
