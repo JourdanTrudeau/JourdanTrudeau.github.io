@@ -6,15 +6,15 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Michael Hernandez
-tagline:          ''
-description:      'My Awesome website'
+title:            Ms. Trudeau
+tagline:          'Come in, sit down, have a cup of tea and follow along'
+description:      'Come in, sit down, have a cup of tea and follow along'
 url:              http://zephyrie.github.io
 baseurl:          /
 
 author:
-  name:           'Michael Hernandez'
-  url:            https://twitter.com/zephyrie13
+  name:           'Jourdan Trudeau'
+  url:            https://www.jourdantrudeau.com
 
 paginate:         5
 
@@ -65,4 +65,3 @@ prose:
         field:
           element: "checkbox"
           label: "Published"
-
