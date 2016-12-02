@@ -46,7 +46,7 @@ prose:
         field:
           element: "checkbox"
           label: "Published"
-          value: false
+          value: true
     _posts:
       - name: "layout"
         field:
@@ -55,4 +55,5 @@ prose:
       - name: "published"
         field:
           element: "checkbox"
-          label: "Published"
+          label: "Published",
+          value: true
