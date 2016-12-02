@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: Welcome!
+title: Home
 ---
 
 <p class="message">
