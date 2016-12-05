@@ -9,7 +9,7 @@ This English course examines the major elements of literature as reflected in a 
 (Credit to the wonderful Ms. Pinkerton for the description and planbook)
 
 <figure style='margin: 0px;'>
-	<a href='http://planbookedu.com/s/4BAD8'>
+	<a target="_blank" href='http://planbookedu.com/s/4BAD8'>
 		<img src='../media/planbook.png' />
 	</a>
   <figcaption style='margin-top: -43px; color: white; margin-left: 20px; font-size: 20px;'>Planbook</figcaption>
