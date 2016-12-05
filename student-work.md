@@ -1,1 +1,0 @@
-This where student work will be displayed in a blog format.
